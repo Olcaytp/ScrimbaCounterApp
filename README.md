@@ -29,5 +29,4 @@ Reviewed by:
   <img
   src="counterapp.png"
   alt="-"
-  width="50"  height="50"> 
   </a>
